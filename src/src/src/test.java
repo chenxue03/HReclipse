@@ -64,5 +64,11 @@ public class test {
 			}
 		}
 	}
+	
+	for(
+	int i:arr)
+	{
+		System.out.println(i);
+	}
 
 }
